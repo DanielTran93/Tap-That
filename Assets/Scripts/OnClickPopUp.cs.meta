@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1b10e79f8f267a47b144896d11d5cfa
+timeCreated: 1466682895
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - popUp: {fileID: 142856, guid: 3aaa4f0ddad45f34bb13526387c836ef, type: 2}
+  - canvas: {fileID: 22395390, guid: 92a5d930dbbf52848b76e19c4237f48b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

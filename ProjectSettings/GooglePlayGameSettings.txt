@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=770708306535
+and.BundleId=com.BreakTime.TapThat
+proj.classDir=Assets
+proj.ConstantsClassName=Leaderboard
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e770708306535%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.BreakTime.TapThat%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_tap_100_times_correctly%22%3eCgkI5_StjrcWEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_blow_up_10_times%22%3eCgkI5_StjrcWEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_blow_up_100_times%22%3eCgkI5_StjrcWEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_tap_1000_times_correctly_in_one_session%22%3eCgkI5_StjrcWEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_that_was_easy%22%3eCgkI5_StjrcWEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_tap_that%22%3eCgkI5_StjrcWEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
